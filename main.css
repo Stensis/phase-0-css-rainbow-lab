@@ -23,7 +23,7 @@ div {
 }
 #orange {
   /* this selects any elements with the orange id */
-  border-top-color: #FFA500;
+  border-top-color: #ffa500;
 }
 #yellow {
   /* this selects any elements with the yellow id */
@@ -31,7 +31,7 @@ div {
 }
 #green {
   /* this selects any elements with the green id */
-  border-top-color: #00BC3F;
+  border-top-color: #00bc3f;
 }
 #blue {
   /* this selects any elements with the blue id */
@@ -39,9 +39,9 @@ div {
 }
 #indigo {
   /* this selects any elements with the indigo id */
-  border-top-color: #8A2BE2;
+  border-top-color: #8a2be2;
 }
 #violet {
   /* this selects any elements with the violet id */
-  border-top-color: #D300C9;
+  border-top-color: #d300c9;
 }
